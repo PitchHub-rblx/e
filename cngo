@@ -1,14 +1,16 @@
+getgenv().coins_collect = false
+
 wait(5)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%201"))()
 
 wait(2)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%202"))()
+getgenv().coins_collect = true
 
 wait(2)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%203"))()
+getgenv().coins_collect = false
 
 wait(1)
 
