@@ -1,0 +1,15 @@
+wait(5)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%201"))()
+
+wait(2)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%202"))()
+
+wait(2)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%203"))()
+
+wait(1)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PitchyATree/roblox/main/cngo%204"))()
